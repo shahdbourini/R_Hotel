@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/R_Hotel/static/css/main.e0881027.chunk.css",
+    "main.css": "/R_Hotel/static/css/main.e8624b88.chunk.css",
     "main.js": "/R_Hotel/static/js/main.eed911d2.chunk.js",
     "main.js.map": "/R_Hotel/static/js/main.eed911d2.chunk.js.map",
     "runtime-main.js": "/R_Hotel/static/js/runtime-main.6cd69452.js",
@@ -10,7 +10,7 @@
     "static/js/3.e1108d74.chunk.js": "/R_Hotel/static/js/3.e1108d74.chunk.js",
     "static/js/3.e1108d74.chunk.js.map": "/R_Hotel/static/js/3.e1108d74.chunk.js.map",
     "index.html": "/R_Hotel/index.html",
-    "static/css/main.e0881027.chunk.css.map": "/R_Hotel/static/css/main.e0881027.chunk.css.map",
+    "static/css/main.e8624b88.chunk.css.map": "/R_Hotel/static/css/main.e8624b88.chunk.css.map",
     "static/js/2.fd42ec19.chunk.js.LICENSE.txt": "/R_Hotel/static/js/2.fd42ec19.chunk.js.LICENSE.txt",
     "static/media/img2.19f3d0af.jpg": "/R_Hotel/static/media/img2.19f3d0af.jpg",
     "static/media/img3.3f8149e3.jpg": "/R_Hotel/static/media/img3.3f8149e3.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.6cd69452.js",
     "static/js/2.fd42ec19.chunk.js",
-    "static/css/main.e0881027.chunk.css",
+    "static/css/main.e8624b88.chunk.css",
     "static/js/main.eed911d2.chunk.js"
   ]
 }
