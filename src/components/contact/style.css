@@ -1,0 +1,74 @@
+.contact_title {
+  position: absolute;
+  width: 78%;
+  height: 74px;
+  margin-left: 10.5%;
+  top: 390px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-size: 30px;
+  line-height: 37px;
+
+  color: #14274a;
+}
+
+.contact_title h3 {
+  font-weight: bold;
+}
+
+.contact_title p {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 0px;
+  margin-left: 0px;
+  /* height: 320.99px; */
+  position: relative;
+  top: 201px;
+}
+
+.details {
+  position: relative;
+  left: 20%;
+  width: 50%;
+  font-size: 18px;
+  font-family: Montserrat;
+}
+
+.map {
+  left: 20%;
+  position: relative;
+  font-weight: 700;
+  font-family: Montserrat;
+  font-size: 18px;
+}
+
+.arrow {
+  position: relative;
+  left: 23%;
+  width: 8%;
+}
+
+.details2 {
+  width: 34%;
+  position: relative;
+  left: 20%;
+  top: 14px;
+  font-size: 18px;
+  font-family: Montserrat;
+}
+
+.form {
+  margin-right: 10%;
+}
+
+.sub {
+  float: right;
+  background: #e0b973;
+  color: white;
+}

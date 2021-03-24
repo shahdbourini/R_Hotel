@@ -1,0 +1,76 @@
+.caption_room{
+    background-color: #000000;
+    /* max-width: 400px; */
+    font-size: 10px;
+    display: block;
+    position: absolute;
+    top: 444px;
+    height: 61px;
+    /* left: 32%; */
+    width: 100%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 59px;
+    text-align: center;
+    color: #f9f9f9;
+}
+
+.figure_room{
+    height: 651px;
+    border: 1px solid;
+    position: relative;
+    Width: 60%;
+    left: 25%;
+    margin-bottom: 60px;
+}
+
+.icon{
+    width: 28px;
+    margin-left: 13%;
+    margin-top: 65px;
+}
+
+.plus{
+    position: absolute;
+    left: 13%;
+    bottom: 44px;
+    font-size: 38px;
+    text-align: center;
+    color: white;
+    line-height: 50px;
+}
+
+
+.view-plus{
+    top: 36px;
+    margin-left: 27px;
+    position: relative;
+}
+
+
+.butt{
+    position: relative;
+    float: right;
+    top: 55px;
+    right: 8%;
+    width: 20%;
+    background: #E0B973;
+    border-radius: 5px;
+    font-family: Montserrat;
+    font-Weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    Line-height: 30.48px;
+  color:white;
+}
+.distance{
+    margin-top:150px;
+}
+
+.img_room{
+    position: relative;
+    Width: 100%;
+    Height: 505px;
+}

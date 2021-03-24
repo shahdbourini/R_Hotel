@@ -1,0 +1,46 @@
+.distance_fa{
+    margin-top: 150px;
+  }
+  .img_fa{
+    position: relative;
+    Width: 75%;
+    Height: 505px;
+    left: 12%;
+
+  }
+  .top-buffer {
+    margin-bottom: 14px;
+     }
+
+     .caption_fa{
+      background-color: #ffffffff;
+      max-width: 400px;
+      font-size: 10px;
+      display: block;
+      position: absolute;
+      top: 444px;
+      height: 61px;
+      left: 32%;
+      width: 43%;
+      font-family: Montserrat;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 13px;
+      line-height: 59px;
+      text-align: center;
+      color: #14274A;
+     }
+
+     .figure_fa {
+      position: relative;
+      Width: 82%;
+      Height: 579px;
+      margin-right: 8%;
+      left: 14%;
+    }
+
+    .test_fa{
+      position: relative;
+    top: 15px;
+    margin-bottom: 89px;
+    }
